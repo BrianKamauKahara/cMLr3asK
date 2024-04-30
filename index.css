@@ -7,10 +7,10 @@ body {
 }
 
 .container {
-    background: rgb(231, 161, 161);
+    background: white;
     max-width: 80%;
     margin: auto;
-    border: 2px double black;
+    border: 3px solid black;
     border-radius: 10px;
 }
 
@@ -37,11 +37,11 @@ button {
 }
 
 #increment-btn {
-    background: #a2a0d8;
+    background: #2C2891;
 }
 
 #save-btn {
-    background: #41b979;
+    background: #1C7947;
 }
 
 #save-el {
